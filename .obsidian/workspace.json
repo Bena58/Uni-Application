@@ -1,72 +1,41 @@
 {
   "main": {
-    "id": "a0ee9125eb502def",
+    "id": "425688c3a500e5e4",
     "type": "split",
     "children": [
       {
-        "id": "c64e5bc658a583c1",
+        "id": "d4595f52a6465629",
         "type": "tabs",
         "children": [
           {
-            "id": "9158eaa256b0567c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
-            "id": "82ad8f808c079806",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Universities List by Countries/Asia/Taiwan/Gemini DR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gemini DR"
-                "file": "assets/University research in Japan.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "University research in Japan"
-            }
-          },
-          {
-            "id": "6b4f6f7f6f6adf55",
+            "id": "1ab1a3abd1bba985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown.md",
+                "file": "Universities List by Countries/Asia/Australia/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown"
+              "title": "Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "89409158b284b9de",
+    "id": "04ac26c906c06bda",
     "type": "split",
     "children": [
       {
-        "id": "95e444862834579a",
+        "id": "68baf8880be5da53",
         "type": "tabs",
         "children": [
           {
-            "id": "3cccf989b0202eed",
+            "id": "65fabc999f14b855",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +48,7 @@
             }
           },
           {
-            "id": "b4d6b282a38fee9c",
+            "id": "26e83136ca896898",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +65,7 @@
             }
           },
           {
-            "id": "30a0383356514e18",
+            "id": "0217b61c12e9e339",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -112,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "fd8c58fe8bdfaf8c",
+    "id": "2d4ba6f3dd3cb2a9",
     "type": "split",
     "children": [
       {
-        "id": "0c457224a9cf1969",
+        "id": "fbf5a9bd4011f34f",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca01704f461c843",
+            "id": "699ccdf705d8ecc5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/University research in Japan.pdf",
+                "file": "Universities List by Countries/Asia/Australia/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for University research in Japan"
+              "title": "Backlinks for Notes"
             }
           },
           {
-            "id": "bc012a84cf4b1aff",
+            "id": "821d9d4e1af8c367",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/University research in Japan.pdf",
+                "file": "Universities List by Countries/Asia/Australia/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from University research in Japan"
+              "title": "Outgoing links from Notes"
             }
           },
           {
-            "id": "10ad793950c03e98",
+            "id": "121670da01bf63a4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,18 +137,18 @@
             }
           },
           {
-            "id": "aa632cce02e04f19",
+            "id": "fbe39594f92e76f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/University research in Japan.pdf",
+                "file": "Universities List by Countries/Asia/Australia/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of University research in Japan"
+              "title": "Outline of Notes"
             }
           }
         ]
@@ -200,52 +169,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "82ad8f808c079806",
+  "active": "1ab1a3abd1bba985",
   "lastOpenFiles": [
-    "Universities List by Countries/Asia/Taiwan/Gemini.md",
-    "Universities List by Countries/Asia/Taiwan/Gemini DR.md",
-    "Universities List by Countries/Asia/Taiwan/Notes.md",
-    "Universities List by Countries/Asia/Taiwan/Claude.md",
-    "Universities List by Countries/Asia/Taiwan/ChatGPT.md",
-    "Universities List by Countries/Asia/South Korea/Gemini Deepresearch.md",
-    "Universities List by Countries/Asia/South Korea/Gemini.md",
-    "Universities List by Countries/Asia/South Korea/Claude.md",
-    "Universities List by Countries/Asia/South Korea/ChatGPT.md",
-    "Universities List by Countries/Asia/Singapore/Gemini DR.md",
-    "Universities List by Countries/Asia/Singapore/ChatGPT.md",
-    "Universities List by Countries/Asia/Singapore/Gemini.md",
-    "Universities List by Countries/Asia/Japan/Claude Research.md",
-    "Universities List by Countries/Asia/Japan/Claude.md",
-    "Universities List by Countries/Asia/Malaysia/Claude.md",
-    "Universities List by Countries/Asia/New Zealand/Claude.md",
-    "Universities List by Countries/Asia/New Zealand/Gemini.md",
-    "Universities List by Countries/Asia/Singapore/Claude.md",
-    "Universities List by Countries/Asia/New Zealand/Gemini Deep Research.md",
-    "Universities List by Countries/Asia/New Zealand/ChatGPT.md",
-    "Universities List by Countries/Asia/Malaysia/ChatGPT.md",
-    "Universities List by Countries/Asia/Malaysia/Gemini Deep Research.md",
-    "Universities List by Countries/Asia/Malaysia/Gemini.md",
-    "Universities List by Countries/Asia/Japan/Notes.md",
-    "Universities List by Countries/Asia/Japan/Gemini Deepsearch.md",
-    "Universities List by Countries/Asia/Japan/Gemini.md",
-    "Universities List by Countries",
-    "Region",
-    "Universities List by Countries/North America/USA",
-    "Universities List by Countries/North America/Canada",
-    "Universities List by Countries/North America",
-    "Universities List by Countries/Europe/UK",
-    "Universities List by Countries/Europe/Switzerland",
-    "Universities List by Countries/Europe/Sweden",
-    "Universities List by Countries/Europe/Spain",
-    "Universities List by Countries/Europe/Portugal"
-    "assets/compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown.md",
-    "Asia/Japan.md",
-    "Countries.md",
-    "assets/University research in Japan.pdf",
-    "assets",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Asia"
+    "Universities List by Countries/Asia/Australia/ChatGPT.md"
   ]
 }
