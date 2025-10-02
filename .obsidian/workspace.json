@@ -23,14 +23,12 @@
             "id": "82ad8f808c079806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Countries.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/University research in Japan.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Countries"
+              "icon": "lucide-file-text",
+              "title": "University research in Japan"
             }
           },
           {
@@ -48,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown.md",
+                "file": "assets/University research in Japan.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown"
+              "title": "Backlinks for University research in Japan"
             }
           },
           {
@@ -140,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown.md",
+                "file": "assets/University research in Japan.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown"
+              "title": "Outgoing links from University research in Japan"
             }
           },
           {
@@ -169,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown.md",
+                "file": "assets/University research in Japan.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown"
+              "title": "Outline of University research in Japan"
             }
           }
         ]
@@ -196,16 +194,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b4f6f7f6f6adf55",
+  "active": "82ad8f808c079806",
   "lastOpenFiles": [
-    "Asia/Japan.md",
-    "assets/University research in Japan.pdf",
     "assets/compass_artifact_wf_f25b50e3_44d6_46ab_80fb_9187d625ae1d_text_markdown.md",
+    "Asia/Japan.md",
+    "Countries.md",
+    "assets/University research in Japan.pdf",
     "assets",
     "Untitled 1.md",
     "Untitled.md",
     "Untitled 2.md",
-    "Asia",
-    "Countries.md"
+    "Asia"
   ]
 }
